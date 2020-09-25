@@ -1,0 +1,33 @@
+1) Global Settings
+credential.helper=osxkeychain
+user.name=Xavier Walden
+user.email=walde154@umn.edu
+core.editor=atom
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
+remote.origin.url=https://github.com/xwalden05/cookbook.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+2a) Pre-Staging
+On branch master
+Your branch is up to date with 'origin/master'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	assignment1.walden
+	baking/bakeCh1.rst
+	baking/bakeCh2.rst
+	baking/bakeCh3.rst
+	grilling/grillCh1.rst
+	grilling/grillCh2.rst
+	grilling/grillCh3.rst
+	soul_food/soulCh1.rst
+	soul_food/soulCh2.rst
+	soul_food/soulCh3.rst
+
+no changes added to commit (use "git add" and/or "git commit -a")
+2b) Pre-commit
